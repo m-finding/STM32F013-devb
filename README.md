@@ -1,6 +1,6 @@
 # STM32F103-devb
 STM32F103 Development Board
-This repository includes all manufacturing files of the STM32f103 Dev. Board - a STM Blue-pill-inspired project.
+This repository includes all manufacturing files of the STM32f103 Dev. Board - a STM Blue-pill-inspired project using the STM32F103C8T6.
 
 Instructions for ordering(files adapted to JLCPCB assembly service):
   - go to jlcpcb.com
