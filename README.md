@@ -6,7 +6,7 @@ Features:
 - STM32F103C8T6 MCU
 - SWD interface
 - Bootmode header
-- Breadboard compatible
+- 2.54mm Breadboard compatible
 - 2 Timer LEDs
 
 
