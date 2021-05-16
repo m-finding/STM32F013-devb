@@ -4,7 +4,6 @@ This repository includes all manufacturing files for an STM32f103 Dev. Board - a
   
 Features:  
 - STM32F103C8T6 MCU
-- MicroUSB OTG
 - SWD interface
 - Bootmode header
 - Breadboard compatible
@@ -23,6 +22,11 @@ Instructions for ordering (files adapted to JLCPCB assembly service):
   - click next
   - review component selection (if nothing is in red you're good)
   - Done!
+
+##### ToDo:
+- fix USB OTG  
+
+#### Assembly references:
   
 
 
